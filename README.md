@@ -56,6 +56,7 @@ python pretrain_model.py
 # 1. Put your PGN files in data/ folder
 # 2. Start training
 python train_from_pgn.py lichess_games.pgn 1000 10
+                                          games evoch
 ```
 
 ### 4. Play the Game!
